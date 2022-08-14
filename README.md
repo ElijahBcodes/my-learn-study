@@ -1,6 +1,6 @@
 # React Challenges
 
-This repository holds the React pair programming challenges for the Echo 2022 cohort.
+This repository holds the React pair programming challenges for my own personal practice.
 
 ### Process Notes
 - Anything wrapped in `< >` is an indication that this will be named uniquely, the `< >` are NOT actually added to the command
